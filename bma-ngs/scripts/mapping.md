@@ -9,3 +9,4 @@
 ## View BAM File
 
     samtools view /opt/bma-data/bam/aligned.bam
+    samtools sort kiv2.bam > kiv2_sorted.bam
